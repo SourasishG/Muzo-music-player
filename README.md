@@ -28,7 +28,7 @@ A responsive, portfolio-quality music player web application featuring a modern,
 
 ## 🏛️ Architecture
 
-`musique` enforces a strict unidirectional data flow:
+`Muzo` enforces a strict unidirectional data flow:
 
 ```text
 React UI Components
