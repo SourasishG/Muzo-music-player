@@ -1,4 +1,4 @@
-# musique 🎵
+# Muzo 🎵
 
 A responsive, portfolio-quality music player web application featuring a modern, soft neumorphic user interface built with React, Zustand, and the native HTML5 Audio API.
 
